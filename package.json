@@ -1,0 +1,12 @@
+{
+  "name": "firstelectronapp",
+  "version": "1.0.0",
+  "description": "An app written in Electron from the doc",
+  "main": "index.js",
+  "scripts": {
+    "test": "fse",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC"
+}
