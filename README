@@ -1,6 +1,6 @@
 First Electron Built with Electron
 
-Prerequisites: NodeJs and npm
+## Prerequisites: NodeJs and npm ##
 
 How to use:
 1. Clone this rep
@@ -9,4 +9,4 @@ How to use:
 $ npm install
 $ npm start
 
-For a full documentation, visit:
+For a full documentation, visit: https://github.com/electron/electron-quick-start/blob/master/README.md
